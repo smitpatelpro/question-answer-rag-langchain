@@ -1,0 +1,11 @@
+# Web
+fastapi[standard]
+
+# .env
+python-decouple==3.8
+
+# RAG
+pypdf
+langchain_community==0.3.0
+langchain-openai
+langchain_chroma==0.1.4
