@@ -1,1 +1,1 @@
-# question-answer-rag-langchain
+# Question Answering from PDF reference based on RAG using Langchain
